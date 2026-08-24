@@ -43,7 +43,7 @@ Then close and reopen Dolphin once.
 
 ## Usage
 
-<img width="383" height="544" alt="image" src="https://github.com/user-attachments/assets/ee77efbb-f7a8-46a5-88ca-870554c5e984" />
+<img width="392" height="548" alt="image" src="https://github.com/user-attachments/assets/a4b04a55-7078-41ae-8307-fbbd3d698d08" />
 
 **Install:** double-click `Setup.exe` **or** open **Lutris One-Click Tools → Install Game**.
 
