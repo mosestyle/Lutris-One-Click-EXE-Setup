@@ -1,5 +1,7 @@
 # Lutris One-Click EXE
 
+<img width="539" height="489" alt="image" src="https://github.com/user-attachments/assets/22916fb4-918a-4723-8ed7-e0644ea82719" />
+
 A small SteamOS/KDE helper for standalone Windows `.exe` games using **Lutris Flatpak**.
 
 ## Features
@@ -40,6 +42,8 @@ bash "$HOME/Downloads/Lutris_OneClick_EXE_Setup_V4.2.sh"
 Then close and reopen Dolphin once.
 
 ## Usage
+
+<img width="383" height="544" alt="image" src="https://github.com/user-attachments/assets/ee77efbb-f7a8-46a5-88ca-870554c5e984" />
 
 **Install:** double-click `Setup.exe` **or** open **Lutris One-Click Tools → Install Game**.
 
