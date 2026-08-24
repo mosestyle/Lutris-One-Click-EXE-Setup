@@ -1,7 +1,7 @@
 # Lutris One-Click EXE
 A small SteamOS/KDE helper for standalone Windows `.exe` games using **Lutris Flatpak**.
 
-<img width="539" height="489" alt="image" src="https://github.com/user-attachments/assets/22916fb4-918a-4723-8ed7-e0644ea82719" />
+<img width="539" height="489" alt="image" src="https://github.com/user-attachments/assets/22916fb4-918a-4723-8ed7-e0644ea82719" /> <img width="391" height="545" alt="image" src="https://github.com/user-attachments/assets/bf8091d1-eabd-4149-a4e1-bb28d6717a68" />
 
 ## Features
 
