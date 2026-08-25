@@ -73,7 +73,7 @@ Then close and reopen Dolphin once so KDE refreshes the One-Click context-menu a
 
 ## Usage
 
-<img width="391" height="545" alt="image" src="https://github.com/user-attachments/assets/bf8091d1-eabd-4149-a4e1-bb28d6717a68" />
+<img width="398" height="548" alt="image" src="https://github.com/user-attachments/assets/23746d3d-26be-47d8-93bc-556ba6efc248" />
 
 **Install a new game:** double-click its installer `.exe` **or** open **One-Click Tools → Install Game**. Choose Steam / Proton or Lutris / Wine if you want to override the default for that installation.
 
