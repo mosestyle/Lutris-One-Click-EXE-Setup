@@ -1,7 +1,8 @@
 # One-Click EXE
 A small SteamOS/KDE helper for standalone Windows `.exe` games using **Steam / Proton by default**, with **Lutris / Wine** available as an alternative backend.
 
-<img width="539" height="489" alt="image" src="https://github.com/user-attachments/assets/22916fb4-918a-4723-8ed7-e0644ea82719" />  |  <img width="391" height="545" alt="image" src="https://github.com/user-attachments/assets/bf8091d1-eabd-4149-a4e1-bb28d6717a68" />
+<img width="663" height="630" alt="image" src="https://github.com/user-attachments/assets/49f695dc-24c1-4582-91dc-03bf8364a71a" />   <img width="548" height="427" alt="image" src="https://github.com/user-attachments/assets/286f9ebf-d08a-466c-81e3-f8fd4580f71d" />
+
 
 ## Features
 
